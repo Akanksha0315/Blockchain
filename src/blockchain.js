@@ -140,3 +140,4 @@ class Blockchain {
 // Export this object to be used elsewhere
 
 module.exports = Blockchain;
+
